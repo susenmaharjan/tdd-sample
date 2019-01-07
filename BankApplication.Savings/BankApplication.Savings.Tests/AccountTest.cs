@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace BankApplication.Savings.Tests
 {
   [TestClass]
-  public class SavingsTest
+  public class AccountTest
   {
     #region Properties
 
