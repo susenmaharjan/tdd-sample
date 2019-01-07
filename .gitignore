@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BankApplication.Savings/.vs/BankApplication.Savings/DesignTimeBuild
+/BankApplication.Savings/.vs/BankApplication.Savings/v15/Server/sqlite3
+/BankApplication.Savings/BankApplication.Savings/obj/Debug/netcoreapp2.2
+/BankApplication.Savings/BankApplication.Savings/obj
+/BankApplication.Savings/BankApplication.Savings.Tests/obj/Debug/netcoreapp2.2
+/BankApplication.Savings/BankApplication.Savings.Tests/obj
